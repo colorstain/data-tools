@@ -1,0 +1,7 @@
+MySQL-python
+jupyter
+matplotlib
+numpy
+pandas
+psycopg2
+sqlalchemy
